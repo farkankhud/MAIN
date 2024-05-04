@@ -1,0 +1,8 @@
+{
+  "TEST_SYNEMP" : {
+    "target" : {
+    "schema" : "HCL_HDI_HCL_DB_DEPLOYER_2",
+    "object" : "APP_INTERACTIONS_EMPLOYEE"
+    }
+}
+}
